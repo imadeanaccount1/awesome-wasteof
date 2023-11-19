@@ -5,7 +5,9 @@ List of wasteof.money bots, clients, and apps.
 - [🤖 Bots](#-bots)
 - [🔌 Platform Clients](#-platform-clients)
 - [📊 Tools and Apps](#-tools-and-apps)
-
+- [📦 Packages, Modules, and Libraries:](-packages)
+- [💬 Social Media:]()
+- [📔 API Resources:]()
 
 ## **🤖 Bots:**
 
@@ -34,8 +36,16 @@ List of bots. Open a PR to add one! [Botting Rules](https://wasteof.money/posts/
 
 ## **📊 Tools and Apps:**
 - wasteof Post Explorer - Search, filter, sort, and aggregate archived wasteof.money users and posts. [Source Code](https://github.com/imadeanaccount1/wasteofpostexplorer) [Application](https://wasteof-postexplorer.vercel.app) - ![released](https://img.shields.io/badge/status-released-blue)
-- wasteofstats - See statistics, data, and more about wasteof.money, based on `@wasteof_bot`. [Source Code](https://github.com/Oren-Lindsey/wasteofstats2) [Application](https://wasteofstats.lindsey.studio/) - ![released](https://img.shields.io/badge/status-released-blue)
+- wasteofstats - See statistics, data, and more about wasteof.money, based on `@wasteof_bot`. [Application](https://wasteofstats.lindsey.studio/) [Source Code](https://github.com/Oren-Lindsey/wasteofstats2) - ![released](https://img.shields.io/badge/status-released-blue)
 
 ## **📦 Packages, Modules, and Libraries:**
-- wasteof-client v3 - Node package for wasteof.money [Source Code](https://github.com/Oren-Lindsey/wasteof-client3) [NPM](https://www.npmjs.com/package/wasteof-client) - ![released](https://img.shields.io/badge/status-released-blue)
+- wasteof-client v3 - Node package for wasteof.money [NPM](https://www.npmjs.com/package/wasteof-client) [Source Code](https://github.com/Oren-Lindsey/wasteof-client3) [Documentatione](https://oren-lindsey.github.io/wasteof-client-docs/) - ![released](https://img.shields.io/badge/status-released-blue)
+
+## **💬 Social Media:**
+- wasteof.money Discord server - official discord server for wasteof.money (run by jeffalo) [Invite Link](https://discord.gg/VkZnVdZTZX)
+- wasteof.plus Discord server - official discord server for wasteof.plus (run by imadeanaccount) [Invite Link](https://discord.gg/3syMXFvDZP)
+- wasteof.money GitHub Organization - [Organization Link](https://github.com/waste-of)
+
+## **📔 API Resources:**
+- wasteof API docs - created by [@wuilly](https://wasteof.money/wuilly) [GitHub Repository](https://github.com/wulliy/wasteof-docs)
 
