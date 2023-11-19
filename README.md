@@ -24,6 +24,7 @@ List of bots. Open a PR to add one! [Botting Rules](https://wasteof.money/posts/
 - [@beemoviebot](https://wasteof.money/users/beemoviebot) - Bot that posts lines from the bee movie every day. ![running](https://img.shields.io/badge/status-running-blue)
 - [@hackernews](https://wasteof.money/users/hackernews) - Bot that posts the top HackerNews posts every day. ![running](https://img.shields.io/badge/status-running-blue)
 - [@immark](https://wasteof.money/users/immark_v2) -  Markov Chain trained on wasteof posts. ![running](https://img.shields.io/badge/status-running-blue)
+- - [@random-posts](https://wasteof.money/users/random-posts) - Bot that posts a random post every day. ![running](https://img.shields.io/badge/status-running-red)
 - [@wombucks](https://wasteof.money/users/wombucks) - Currency/money system bot. ![running](https://img.shields.io/badge/status-running-blue)
 - [@photo-bot](https://wasteof.money/users/photo-bot) - Bot that posts Unsplash images based on wall suggestions. ![running](https://img.shields.io/badge/status-running-blue)
 - [@astronomy](https://wasteof.money/users/astronomy) - Bot that posts astronomy pictures every day. ![running](https://img.shields.io/badge/status-running-blue)
@@ -35,7 +36,7 @@ List of bots. Open a PR to add one! [Botting Rules](https://wasteof.money/posts/
 - Untitled iOS/MacOS/watchOS App - ![in development](https://img.shields.io/badge/status-in_development-blue)
 
 ## **📊 Tools and Apps:**
-- wasteof Post Explorer - Search, filter, sort, and aggregate archived wasteof.money users and posts. [Source Code](https://github.com/imadeanaccount1/wasteofpostexplorer) [Application](https://wasteof-postexplorer.vercel.app) - ![released](https://img.shields.io/badge/status-released-blue)
+- wasteof Post Explorer - Search, filter, sort, and aggregate archived wasteof.money users and posts. [Application](https://wasteof-postexplorer.vercel.app) [Source Code](https://github.com/imadeanaccount1/wasteofpostexplorer) - ![released](https://img.shields.io/badge/status-released-blue)
 - wasteofstats - See statistics, data, and more about wasteof.money, based on `@wasteof_bot`. [Application](https://wasteofstats.lindsey.studio/) [Source Code](https://github.com/Oren-Lindsey/wasteofstats2) - ![released](https://img.shields.io/badge/status-released-blue)
 
 ## **📦 Packages, Modules, and Libraries:**
