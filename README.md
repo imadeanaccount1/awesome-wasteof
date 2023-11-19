@@ -11,6 +11,7 @@ List of wasteof.money bots, clients, and apps.
 
 List of bots. Open a PR to add one! [Botting Rules](https://wasteof.money/posts/629eef086586aae544597fac)
 - [@onion](https://wasteof.money/users/onion) - Bot that posts the latest article from The Onion each day. [Source Code](https://github.com/imadeanaccount1/onionbot)
+- [@irlnews](https://wasteof.money/users/irlnews) - Bot that posts IRL tech news every day.
 - [@wasteof_bot](https://wasteof.money/users/wasteof_bot) - A bot with various tools related to wasteof.money. [Source Code](https://github.com/Quantum-Codes/Wob-Graphs) [Documentation](/docs/wasteof_bot/docs.md) 
 - [@beemoviebot](https://wasteof.money/users/beemoviebot) - Bot that posts lines from the bee movie every day.
 - [@hackernews](https://wasteof.money/users/hackernews) - Bot that posts the top HackerNews posts every day.
