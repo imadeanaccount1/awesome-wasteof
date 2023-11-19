@@ -33,4 +33,9 @@ List of bots. Open a PR to add one! [Botting Rules](https://wasteof.money/posts/
 - Untitled iOS/MacOS/watchOS App - ![in development](https://img.shields.io/badge/status-in_development-blue)
 
 ## **📊 Tools and Apps:**
-- wasteof Post Explorer - Search, filter, sort, and aggregate archived wasteof.money users and posts. [Source Code](https://github.com/imadeanaccount1/wasteofpostexplorer) [Application Link](https://wasteof-postexplorer.vercel.app) - ![released](https://img.shields.io/badge/status-released-blue)
+- wasteof Post Explorer - Search, filter, sort, and aggregate archived wasteof.money users and posts. [Source Code](https://github.com/imadeanaccount1/wasteofpostexplorer) [Application](https://wasteof-postexplorer.vercel.app) - ![released](https://img.shields.io/badge/status-released-blue)
+- wasteofstats - See statistics, data, and more about wasteof.money, based on `@wasteof_bot`. [Source Code](https://github.com/Oren-Lindsey/wasteofstats2) [Application](https://wasteofstats.lindsey.studio/) - ![released](https://img.shields.io/badge/status-released-blue)
+
+## **📦 Packages, Modules, and Libraries:**
+- wasteof-client v3 - Node package for wasteof.money [Source Code](https://github.com/Oren-Lindsey/wasteof-client3) [NPM](https://www.npmjs.com/package/wasteof-client) - ![released](https://img.shields.io/badge/status-released-blue)
+
