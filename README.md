@@ -1,4 +1,4 @@
-# Awesome Wasteof
+# ⭐ Awesome Wasteof
 List of wasteof.money bots, clients, and apps.
 
 ## Contents
