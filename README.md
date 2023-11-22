@@ -69,4 +69,4 @@ A list of wasteof.money bots, clients, apps, and more  with the goal of making i
 - beta.wasteof.money - wasteof3 beta [Beta Link](https://beta.wasteof.money/) - ![being discontinued](https://img.shields.io/badge/status-being_discontinued-yellow)
 - alpha.wasteof.money - wasteof4 alpha [Alpha Link](https://alpha.wasteof.money/) - ![closed alpha](https://img.shields.io/badge/status-closed_alpha-yellow)
 - dev.wasteof.money - wasteof1 development site (not running anymore) [Original Link (not working anymore)](https://dev.wasteof.money/) [Source Code](https://github.com/jeffalo/wasteof.money) - ![archived](https://img.shields.io/badge/status-archived-red)
-- wasteof.money/chat - chat for wasteof.money [Chat Link (not working anymore)](https://wasteof.money/chat) - ![released](https://img.shields.io/badge/status-released-blue)
+- wasteof.money/chat - chat for wasteof.money [Chat Link](https://wasteof.money/chat) - ![released](https://img.shields.io/badge/status-released-blue)
