@@ -23,7 +23,7 @@ A list of wasteof.money bots, clients, apps, and more  with the goal of making i
 - [@wasteof_bot](https://wasteof.money/users/wasteof_bot) - Bot with various tools related to wasteof.money. [Source Code](https://github.com/Quantum-Codes/Wob-Graphs) [Documentation](/docs/wasteof_bot/docs.md) ![running](https://img.shields.io/badge/status-running-blue)
 - [@beemoviebot](https://wasteof.money/users/beemoviebot) - Bot that posts lines from the bee movie every day. ![running](https://img.shields.io/badge/status-running-blue)
 - [@hackernews](https://wasteof.money/users/hackernews) - Bot that posts the top HackerNews posts every day. ![running](https://img.shields.io/badge/status-running-blue)
-- [@immark](https://wasteof.money/users/immark_v2) -  Markov Chain trained on wasteof posts. ![running](https://img.shields.io/badge/status-running-blue)
+- [@immark](https://wasteof.money/users/immark_v2) -  Markov Chain trained on wasteof posts (not associated with @immark). ![running](https://img.shields.io/badge/status-running-blue)
   [@random-posts](https://wasteof.money/users/random-posts) - Bot that posts a random post every day. ![running](https://img.shields.io/badge/status-running-red)
 - [@photo-bot](https://wasteof.money/users/photo-bot) - Bot that posts Unsplash images based on wall suggestions. ![running](https://img.shields.io/badge/status-running-blue)
 - [@astronomy](https://wasteof.money/users/astronomy) - Bot that posts astronomy pictures every day. ![running](https://img.shields.io/badge/status-running-blue)
@@ -58,7 +58,7 @@ A list of wasteof.money bots, clients, apps, and more  with the goal of making i
 - wasteof.money rules - rules/guidelines for interacting on the site [Rules](https://wasteof.money/rules)
 - wasteof.money privacy policy - [Privacy Policy](https://wasteof.money/privacy)
 - wasteof.money botting rules - rules for creators of bots [Botting Rules](https://wasteof.money/posts/629eef086586aae544597fac)
-- wasteof.money contact page - how to contact jeffalo about wasteof [Contact Page](https://wasteof.money/posts/629eef086586aae544597fac)
+- wasteof.money contact page - how to contact jeffalo about wasteof [Contact Page](https://wasteof.money/contact)
 
 ## **🔗 Historical/Related Projects:**
 - is.wasteof.money - A website to tell you if something is a waste of money. [Website Link](https://is.wasteof.money/) - ![released](https://img.shields.io/badge/status-released-blue)
