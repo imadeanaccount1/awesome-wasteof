@@ -1,5 +1,5 @@
 # ⭐ Awesome Wasteof
-List of wasteof.money bots, clients, apps, and more. A collection of information about various wasteof.money topics.
+A list of wasteof.money bots, clients, apps, and more  with the goal of making information about wasteof.money topics easy to find and navigate. Open a PR to make this list even more awesome!
 
 ## Contents
 - [🤖 Bots](#-bots)
