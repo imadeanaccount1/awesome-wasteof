@@ -25,10 +25,10 @@ List of bots. Open a PR to add any that are missing! [Botting Rules](https://was
 - [@hackernews](https://wasteof.money/users/hackernews) - Bot that posts the top HackerNews posts every day. ![running](https://img.shields.io/badge/status-running-blue)
 - [@immark](https://wasteof.money/users/immark_v2) -  Markov Chain trained on wasteof posts. ![running](https://img.shields.io/badge/status-running-blue)
   [@random-posts](https://wasteof.money/users/random-posts) - Bot that posts a random post every day. ![running](https://img.shields.io/badge/status-running-red)
-- [@wombucks](https://wasteof.money/users/wombucks) - Currency/money system bot. ![running](https://img.shields.io/badge/status-running-blue)
 - [@photo-bot](https://wasteof.money/users/photo-bot) - Bot that posts Unsplash images based on wall suggestions. ![running](https://img.shields.io/badge/status-running-blue)
 - [@astronomy](https://wasteof.money/users/astronomy) - Bot that posts astronomy pictures every day. ![running](https://img.shields.io/badge/status-running-blue)
-- [@dall-e](https://wasteof.money/users/dall-e) - Bot that generates images using Dall-E from wall prompts. ![banned](https://img.shields.io/badge/status-not_running-yellow)
+- [@dall-e](https://wasteof.money/users/dall-e) - Bot that generates images using Dall-E from wall prompts. ![not running](https://img.shields.io/badge/status-not_running-yellow)
+- [@wombucks](https://wasteof.money/users/wombucks) - Currency/money system bot. ![not running](https://img.shields.io/badge/status-not_running-yellow)
 - [@immark](https://wasteof.money/users/immark) - Markov Chain trained on wasteof posts. ![banned](https://img.shields.io/badge/status-banned-red)
 
 ## **🔌 Platform Clients:**
