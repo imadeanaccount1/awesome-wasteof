@@ -5,11 +5,11 @@ A list of wasteof.money bots, clients, apps, and more  with the goal of making i
 - [🤖 Bots](#-bots)
 - [🔌 Platform Clients](#-platform-clients)
 - [📊 Tools and Apps](#-tools-and-apps)
-- [📦 Packages, Modules, and Libraries:](#-packages-modules-and-libraries)
-- [💬 wasteof.money Social Media:](#-social-media)
-- [📔 Development Resources:](#-development-resources)
-- [💡 General Resources:](#-general-resources)
-- [🔗 Historical/Related Projects:](#-historicalrelated-projects)
+- [📦 Packages, Modules, and Libraries](#-packages-modules-and-libraries)
+- [💬 Social Media/Communities](#-social-mediacommunities)
+- [📔 Development Resources](#-development-resources)
+- [💡 General Resources](#-general-resources)
+- [🔗 Historical/Related Projects](#-historicalrelated-projects)
 
 ## **🤖 Bots:**
 - [@onion](https://wasteof.money/users/onion) - Bot that posts the latest article from The Onion each day. [Source Code](https://github.com/imadeanaccount1/onionbot) ![running](https://img.shields.io/badge/status-running-blue)
@@ -43,7 +43,7 @@ A list of wasteof.money bots, clients, apps, and more  with the goal of making i
 - wasteof-client v3 - Javascript library for wasteof.money API endpoints and actions [NPM](https://www.npmjs.com/package/wasteof-client). created by [@oren](https://wasteof.money/users/oren). [Source Code](https://github.com/Oren-Lindsey/wasteof-client3) [Documentation](https://oren-lindsey.github.io/wasteof-client-docs/) - ![released](https://img.shields.io/badge/status-released-blue)
 - wasteof.js - Javascript library for interacting with the wasteof.money API. created by [@late](https://wasteof.money/users/late). [Source Code](https://github.com/Late-Is-Cool/wasteof.js) - ![released](https://img.shields.io/badge/status-released-blue)
 
-## **💬 Social Media:**
+## **💬 Social Media/Communities:**
 - wasteof.money GitHub Organization - [Organization Link](https://github.com/waste-of)
 - wasteof.money YouTube Channel - [Channel Link](https://www.youtube.com/@wasteofmoney)
 - wasteof.money Discord server - official discord server for wasteof.money (run by jeffalo) [Server Invite](https://discord.gg/VkZnVdZTZX)
