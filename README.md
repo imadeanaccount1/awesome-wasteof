@@ -1,5 +1,5 @@
 # ⭐ Awesome Wasteof
-List of wasteof.money bots, clients, and apps.
+List of wasteof.money bots, clients, apps, and more. 
 
 ## Contents
 - [🤖 Bots](#-bots)
@@ -11,7 +11,7 @@ List of wasteof.money bots, clients, and apps.
 
 ## **🤖 Bots:**
 
-List of bots. Open a PR to add one! [Botting Rules](https://wasteof.money/posts/629eef086586aae544597fac)
+List of bots. Open a PR to add any that are missing! [Botting Rules](https://wasteof.money/posts/629eef086586aae544597fac)
 - [@onion](https://wasteof.money/users/onion) - Bot that posts the latest article from The Onion each day. [Source Code](https://github.com/imadeanaccount1/onionbot) ![running](https://img.shields.io/badge/status-running-blue)
 - [@irlnews](https://wasteof.money/users/irlnews) - Bot that posts IRL tech news every day. ![running](https://img.shields.io/badge/status-running-blue)
 - [@jokebot](https://wasteof.money/users/jokebot) - Bot that posts a joke every day. ![running](https://img.shields.io/badge/status-running-blue)
