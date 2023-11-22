@@ -46,6 +46,7 @@ A list of wasteof.money bots, clients, apps, and more  with the goal of making i
 - wasteof-client v3 - Javascript library for wasteof.money API endpoints and actions [NPM](https://www.npmjs.com/package/wasteof-client). created by [@oren](https://wasteof.money/users/oren). [Source Code](https://github.com/Oren-Lindsey/wasteof-client3) [Documentation](https://oren-lindsey.github.io/wasteof-client-docs/) - ![released](https://img.shields.io/badge/status-released-blue)
 - wasteof.js - Javascript library for interacting with the wasteof.money API. created by [@late](https://wasteof.money/users/late). [Source Code](https://github.com/Late-Is-Cool/wasteof.js) - ![released](https://img.shields.io/badge/status-released-blue)
 - wasteof.py - Python package for interacting with wasteof.money created by [@silly](https://wasteof.money/users/silly) and [@radi8](https://wasteof.money/users/radi8). [Source Code](https://github.com/reidthepog/wasteof.py)
+- wasteof.haxe - Haxe library for interacting with wasteof.money, created by [@8bitosc](https://wasteof.money/users/8bitosc). [Source Code](https://github.com/8BitOSC/wasteof-haxe) [Haxelib](https://lib.haxe.org/p/wasteofhaxe)
 
 ## **💬 Social Media/Communities:**
 - wasteof.money GitHub Organization - [Organization Link](https://github.com/waste-of)
