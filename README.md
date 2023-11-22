@@ -7,7 +7,7 @@ List of wasteof.money bots, clients, apps, and more. A collection of information
 - [📊 Tools and Apps](#-tools-and-apps)
 - [📦 Packages, Modules, and Libraries:](-packages-modules-and-libraries)
 - [💬 Social Media:](-social-media)
-- [📔 API Resources:](-api-resources)
+- [📔 Development Resources:](-development-resources)
 
 ## **🤖 Bots:**
 
