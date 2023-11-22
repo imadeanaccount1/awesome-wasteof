@@ -26,7 +26,7 @@ A list of wasteof.money bots, clients, apps, and more  with the goal of making i
 - [@immark_v2](https://wasteof.money/users/immark_v2) -  Markov Chain trained on wasteof posts (not associated with @immark). ![running](https://img.shields.io/badge/status-running-blue)
 - [@za-charys_notebook](https://wasteof.money/users/za-charys_notebook) - Bot that logs Za-Chary’s notebook posts. ![running](https://img.shields.io/badge/status-running-blue)
 - [@showerthoughtsbot](https://wasteof.money/users/showerthoughtsbot) - Bot that posts a shower thought from Reddit. ![running](https://img.shields.io/badge/status-running-blue)
-- [@random-posts](https://wasteof.money/users/random-posts) - Bot that posts a random post every day. ![running](https://img.shields.io/badge/status-running-red)
+- [@random-posts](https://wasteof.money/users/random-posts) - Bot that posts a random post every day. ![running](https://img.shields.io/badge/status-running-blue)
 - [@photo-bot](https://wasteof.money/users/photo-bot) - Bot that posts Unsplash images based on wall suggestions. ![running](https://img.shields.io/badge/status-running-blue)
 - [@astronomy](https://wasteof.money/users/astronomy) - Bot that posts astronomy pictures every day. ![running](https://img.shields.io/badge/status-running-blue)
 - [@dall-e](https://wasteof.money/users/dall-e) - Bot that generates images using Dall-E from wall prompts. ![not running](https://img.shields.io/badge/status-not_running-yellow)
