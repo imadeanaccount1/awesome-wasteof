@@ -5,11 +5,11 @@ A list of wasteof.money bots, clients, apps, and more  with the goal of making i
 - [🤖 Bots](#-bots)
 - [🔌 Platform Clients](#-platform-clients)
 - [📊 Tools and Apps](#-tools-and-apps)
-- [📦 Packages, Modules, and Libraries:](-packages-modules-and-libraries)
-- [💬 Social Media:](-social-media)
-- [📔 Development Resources:](-development-resources)
-- [💡 General Resources:](-general-resources)
-- [🔗 Historical/Related Projects:](-historical-related-projects)
+- [📦 Packages, Modules, and Libraries:](#-packages-modules-and-libraries)
+- [💬 Social Media:](#-social-media)
+- [📔 Development Resources:](#-development-resources)
+- [💡 General Resources:](#-general-resources)
+- [🔗 Historical/Related Projects:](#-historical-related-projects)
 
 ## **🤖 Bots:**
 - [@onion](https://wasteof.money/users/onion) - Bot that posts the latest article from The Onion each day. [Source Code](https://github.com/imadeanaccount1/onionbot) ![running](https://img.shields.io/badge/status-running-blue)
