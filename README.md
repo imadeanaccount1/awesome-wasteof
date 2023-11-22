@@ -12,6 +12,8 @@ A list of wasteof.money bots, clients, apps, and more  with the goal of making i
 - [🔗 Historical/Related Projects](#-historicalrelated-projects)
 
 ## **🤖 Bots:**
+
+**Scheduled (once a day/week/etc.) bots:**
 - [@onion](https://wasteof.money/users/onion) - Bot that posts the latest article from The Onion each day. [Source Code](https://github.com/imadeanaccount1/onionbot) ![running](https://img.shields.io/badge/status-running-blue)  ![14:00 UTC](https://img.shields.io/badge/time-14:00_UTC-green)
 - [@irlnews](https://wasteof.money/users/irlnews) - Bot that posts IRL tech news every day. ![running](https://img.shields.io/badge/status-running-blue) ![13:00 UTC](https://img.shields.io/badge/time-13:00_UTC-green)
 - [@jokebot](https://wasteof.money/users/jokebot) - Bot that posts a joke every day. ![running](https://img.shields.io/badge/status-running-blue) ![16:00 UTC](https://img.shields.io/badge/time-16:00_UTC-green)
@@ -28,6 +30,8 @@ A list of wasteof.money bots, clients, apps, and more  with the goal of making i
 - [@photo-bot](https://wasteof.money/users/photo-bot) - Bot that posts Unsplash images based on wall suggestions. ![running](https://img.shields.io/badge/status-running-blue) ![13:00 UTC](https://img.shields.io/badge/time-13:00_UTC-green)
 - [@astronomy](https://wasteof.money/users/astronomy) - Bot that posts astronomy pictures every day. ![running](https://img.shields.io/badge/status-running-blue) ![13:00 UTC](https://img.shields.io/badge/time-13:00_UTC-green)
 - [@immark](https://wasteof.money/users/immark) - Markov Chain trained on wasteof posts. ![banned](https://img.shields.io/badge/status-banned-red)
+  
+**On-Request Bots:**
 - [@wasteof_bot](https://wasteof.money/users/wasteof_bot) - Bot with various tools related to wasteof.money. [Source Code](https://github.com/Quantum-Codes/Wob-Graphs) [Documentation](/docs/wasteof_bot/docs.md) ![running](https://img.shields.io/badge/status-running-blue)
 - [@dall-e](https://wasteof.money/users/dall-e) - Bot that generates images using Dall-E from wall prompts. ![not running](https://img.shields.io/badge/status-not_running-yellow)
 - [@wombucks](https://wasteof.money/users/wombucks) - Currency/money system bot. ![not running](https://img.shields.io/badge/status-not_running-yellow)
