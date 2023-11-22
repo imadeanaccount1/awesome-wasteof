@@ -32,8 +32,8 @@ List of bots. Open a PR to add any that are missing! [Botting Rules](https://was
 - [@immark](https://wasteof.money/users/immark) - Markov Chain trained on wasteof posts. ![banned](https://img.shields.io/badge/status-banned-red)
 
 ## **🔌 Platform Clients:**
-- wasteof for Android -  The official mobile app for the wasteof.money social network, written in React Native. created by [@micahlt](https://wasteof.money/micahlt) [Source Code](https://github.com/micahlt/wasteof.mobile) [Google Play Store](https://play.google.com/store/apps/details?id=com.micahlindley.wasteofmobile) - ![released](https://img.shields.io/badge/status-released-blue)
-- Untitled iOS/MacOS/watchOS App - ![in development](https://img.shields.io/badge/status-in_development-blue)
+- wasteof for Android -  The official mobile app for the wasteof.money social network, written in React Native. created by [@micahlt](https://wasteof.money/users/micahlt) [Source Code](https://github.com/micahlt/wasteof.mobile) [Google Play Store](https://play.google.com/store/apps/details?id=com.micahlindley.wasteofmobile) - ![released](https://img.shields.io/badge/status-released-blue) created by Micah
+- wasteof.money iOS - wasteof.money client for ios, made with SwiftUI. created by [@oren](https://wasteof.money/users/oren) ![in development](https://img.shields.io/badge/status-in_development-blue) 
 
 ## **📊 Tools and Apps:**
 - wasteof Post Explorer - Search, filter, sort, and aggregate archived wasteof.money users and posts. [Application](https://wasteof-postexplorer.vercel.app) [Source Code](https://github.com/imadeanaccount1/wasteofpostexplorer) - ![released](https://img.shields.io/badge/status-released-blue)
