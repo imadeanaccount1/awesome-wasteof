@@ -29,6 +29,9 @@ A list of wasteof.money bots, clients, apps, and more  with the goal of making i
 - [@dall-e](https://wasteof.money/users/dall-e) - Bot that generates images using Dall-E from wall prompts. Managed by [@radi8](https://wasteof.money/@radi8) ![not running](https://img.shields.io/badge/status-not_running-yellow)
 - [@wombucks](https://wasteof.money/users/wombucks) - Currency/money system bot. Managed by [@radi8](https://wasteof.money/@radi8) ![not running](https://img.shields.io/badge/status-not_running-yellow)
 - [@immark](https://wasteof.money/users/immark) - Markov Chain trained on wasteof posts. ![banned](https://img.shields.io/badge/status-banned-red)
+- [@repeaterbot](https://wasteof.money/users/repeaterbot) - Bot the repeats what you said. Managed by [@radi8](https://wasteof.money/@radi8) ![banned](https://img.shields.io/badge/status-banned-red)
+- [@showerthoughtsbot](https://wasteof.money/users/showerthoughtsbot) - Bot that posts a shower thought from Reddit. Managed by Zoe (idk what thier account is ☹️) ![running](https://img.shields.io/badge/status-running-blue)
+- [@za-charys_notebook](https://wasteof.money/users/za-charys_notebook) - Bot that logs Za-Chary’s notebook posts. Managed by [@portalpower](https://wasteof.money/@portalpower) ![running](https://img.shields.io/badge/status-running-blue)
 
 ## **🔌 Platform Clients:**
 - wasteof for Android -  The official mobile app for the wasteof.money social network, written in React Native. created by [@micahlt](https://wasteof.money/users/micahlt). [Source Code](https://github.com/micahlt/wasteof.mobile) [Google Play Store](https://play.google.com/store/apps/details?id=com.micahlindley.wasteofmobile) - ![released](https://img.shields.io/badge/status-released-blue) created by Micah
@@ -41,8 +44,8 @@ A list of wasteof.money bots, clients, apps, and more  with the goal of making i
 ## **📦 Packages, Modules, and Libraries:**
 - wasteof-client v3 - Javascript library for wasteof.money API endpoints and actions [NPM](https://www.npmjs.com/package/wasteof-client). created by [@oren](https://wasteof.money/users/oren). [Source Code](https://github.com/Oren-Lindsey/wasteof-client3) [Documentation](https://oren-lindsey.github.io/wasteof-client-docs/) - ![released](https://img.shields.io/badge/status-released-blue)
 - wasteof.js - Javascript library for interacting with the wasteof.money API. created by [@late](https://wasteof.money/users/late). [Source Code](https://github.com/Late-Is-Cool/wasteof.js) - ![released](https://img.shields.io/badge/status-released-blue)
-- wasteof.py - Python module for interacting with the wasteof.money API. Created by [@silly](https://wasteof.money/users/silly). [Source Code](https://github.com/reidthepog/wasteof.py) - ![W.I.P](https://img.shields.io/badge/status-released-blue)
-
+- wasteof.py - Python package for interacting with wasteof.money. created by [@silly](https://wasteof.money/users/silly) and [@radi8](https://wasteof.money/users/radi8). [Source Code](https://github.com/reidthepog/wasteof.py)
+- wasteof.haxe - Haxe library for interacting with wasteof.money, created by [@8bitosc](https://wasteof.money/users/8bitosc). [Source Code](https://github.com/8BitOSC/wasteof-haxe) [Haxelib](https://lib.haxe.org/p/wasteofhaxe)
 ## **💬 Social Media/Communities:**
 - wasteof.money GitHub Organization - [Organization Link](https://github.com/waste-of)
 - wasteof.money YouTube Channel - [Channel Link](https://www.youtube.com/@wasteofmoney)
@@ -65,5 +68,4 @@ A list of wasteof.money bots, clients, apps, and more  with the goal of making i
 - beta.wasteof.money - wasteof3 beta [Beta Link](https://beta.wasteof.money/) - ![being discontinued](https://img.shields.io/badge/status-being_discontinued-yellow)
 - alpha.wasteof.money - wasteof4 alpha [Alpha Link](https://alpha.wasteof.money/) - ![closed alpha](https://img.shields.io/badge/status-closed_alpha-yellow)
 - dev.wasteof.money - wasteof1 development site (not running anymore) [Original Link (not working anymore)](https://dev.wasteof.money/) [Source Code](https://github.com/jeffalo/wasteof.money) - ![archived](https://img.shields.io/badge/status-archived-red)
-- wasteof.money/chat - chat for wasteof.money [Chat Link (not working anymore)](https://wasteof.money/chat) - ![released](https://img.shields.io/badge/status-released-blue)
-
+- wasteof.money/chat - chat for wasteof.money [Chat Link](https://wasteof.money/chat) - ![released](https://img.shields.io/badge/status-released-blue)
