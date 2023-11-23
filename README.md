@@ -13,7 +13,7 @@ A list of wasteof.money bots, clients, apps, and more  with the goal of making i
 
 ## **🤖 Bots:**
 
-**Scheduled (once a day/week/etc.) bots:**
+**📅 Scheduled (once a day/week/etc.) bots:**
 - [@onion](https://wasteof.money/users/onion) - Bot that posts The Onion articles every day. [Source Code](https://github.com/imadeanaccount1/onionbot) ![running](https://img.shields.io/badge/status-running-blue)  ![14:00 UTC](https://img.shields.io/badge/time-14:00_UTC-green) [![created by @imadeanaccount](https://img.shields.io/badge/created_by-@imadeanaccount-yellow)](https://wasteof.money/users/imadeanaccount)
 - [@irlnews](https://wasteof.money/users/irlnews) - Bot that posts IRL tech news every day. ![running](https://img.shields.io/badge/status-running-blue) ![13:00 UTC](https://img.shields.io/badge/time-13:00_UTC-green) [![created by @radi8](https://img.shields.io/badge/created_by-@radi8-lightgrey)](https://wasteof.money/users/radi8)
 - [@dogfacts](https://wasteof.money/users/dogfacts) - Bot that posts dog facts every day. ![running](https://img.shields.io/badge/status-running-blue) ![13:00 UTC](https://img.shields.io/badge/time-16:00_UTC-green) [![created by @radi8](https://img.shields.io/badge/created_by-@radi8-lightgrey)](https://wasteof.money/users/radi8)
@@ -32,7 +32,7 @@ A list of wasteof.money bots, clients, apps, and more  with the goal of making i
 - [@showerthoughtsbot](https://wasteof.money/users/showerthoughtsbot) - Bot that posts a shower thought from Reddit. ![running](https://img.shields.io/badge/status-running-blue) ![18:00 UTC](https://img.shields.io/badge/time-18:00_UTC-green) [![created by @jeff](https://img.shields.io/badge/created_by-@jeff-hotpink)](https://wasteof.money/users/jeff)
 - [@immark](https://wasteof.money/users/immark) - Markov Chain trained on wasteof posts. ![banned](https://img.shields.io/badge/status-banned-red) ![created by unknown](https://img.shields.io/badge/created_by-unknown-lightgrey)
   
-**On-Request Bots:**
+**🗨 On-Request Bots:**
 - [@wasteof_bot](https://wasteof.money/users/wasteof_bot) - Bot with various tools related to wasteof.money. [Source Code](https://github.com/Quantum-Codes/Wob-Graphs) [Documentation](/docs/wasteof_bot/docs.md) ![running](https://img.shields.io/badge/status-running-blue) [![created by @quantum-codes](https://img.shields.io/badge/created_by-@quantum--codes-lightskyblue)](https://wasteof.money/users/quantum-codes)
 - [@dall-e](https://wasteof.money/users/dall-e) - Bot that generates images using Dall-E from wall prompts. ![not running](https://img.shields.io/badge/status-not_running-yellow) [![created by @radi8](https://img.shields.io/badge/created_by-@radi8-lightgrey)](https://wasteof.money/users/radi8)
 - [@wombucks](https://wasteof.money/users/wombucks) - Currency/money system bot. ![not running](https://img.shields.io/badge/status-not_running-yellow) [![created by @radi8](https://img.shields.io/badge/created_by-@radi8-lightgrey)](https://wasteof.money/users/radi8)
