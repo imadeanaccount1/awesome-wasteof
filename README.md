@@ -1,4 +1,4 @@
-# ⭐ Awesome Wasteof
+# ⭐ Awesome wasteof
 A list of wasteof.money bots, clients, apps, and more  with the goal of making information about wasteof.money topics easy to find and navigate. Open a PR to make this list even more awesome!
 
 ## Contents
@@ -40,7 +40,7 @@ A list of wasteof.money bots, clients, apps, and more  with the goal of making i
 
 ## **🔌 Platform Clients:**
 - wasteof for Android -  The official mobile app for the wasteof.money social network, written in React Native. created by [@micahlt](https://wasteof.money/users/micahlt). [Source Code](https://github.com/micahlt/wasteof.mobile) [Google Play Store](https://play.google.com/store/apps/details?id=com.micahlindley.wasteofmobile) - ![released](https://img.shields.io/badge/status-released-blue)
-- wasteof.money iOS - wasteof.money client for ios, made with SwiftUI. created by [@oren](https://wasteof.money/users/oren). [Source Code](https://github.com/Oren-Lindsey/wasteof.money-ios) ![in development](https://img.shields.io/badge/status-in_development-yellow) 
+- wasteof.money iOS - wasteof.money client for ios, made with SwiftUI. created by [@oren](https://wasteof.money/users/oren). [Source Code](https://github.com/Oren-Lindsey/wasteof-ios) ![in development](https://img.shields.io/badge/status-in_development-yellow) 
 
 ## **📊 Tools and Apps:**
 - wasteof Post Explorer - Search, filter, sort, and aggregate archived wasteof.money users and posts. [Application](https://wasteof-postexplorer.vercel.app) [Source Code](https://github.com/imadeanaccount1/wasteofpostexplorer) - ![released](https://img.shields.io/badge/status-released-blue)
