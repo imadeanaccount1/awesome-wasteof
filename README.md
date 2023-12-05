@@ -44,6 +44,7 @@ A list of wasteof.money bots, clients, apps, and more  with the goal of making i
 
 ## **📊 Tools and Apps:**
 - wasteof Post Explorer - Search, filter, sort, and aggregate archived wasteof.money users and posts. [Application](https://wasteof-postexplorer.vercel.app) [Source Code](https://github.com/imadeanaccount1/wasteofpostexplorer) - ![released](https://img.shields.io/badge/status-released-blue)
+- wasteof Wrapped - a module of the wasteof post explorer, wasteof Wrapped allows you to see your highlights from the past year on wasteof [Application](https://wasteof-postexplorer.vercel.app/wrapped) - ![released](https://img.shields.io/badge/status-released-blue)
 - wasteofstats - See statistics, data, and more about wasteof.money, based on `@wasteof_bot`. [Application](https://wasteofstats.lindsey.studio/) [Source Code](https://github.com/Oren-Lindsey/wasteofstats2) - ![released](https://img.shields.io/badge/status-released-blue)
 
 ## **📦 Packages, Modules, and Libraries:**
